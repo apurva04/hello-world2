@@ -2,3 +2,6 @@
 ita  a new repository for learning  git
 
 hi i am new to git 
+
+
+update 2 :)
